@@ -1,0 +1,6 @@
+{
+  "name": "DepEd MOOE Liquidation & Procedural System",
+  "description": "Comprehensive DepEd MOOE liquidation, COA Circular 97-002 compliance tracker, tax withholding automation, official GAM forms generator, and LegitApp-style verification audit suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
